@@ -11,7 +11,7 @@ This model shows a complete process of working with historic climate data and cl
 6)	Make necessary operations with the data (e.g. make the daily values of rainfall or temperature into monthly values), and visualize the output data,
 7)	Test different methods for Bias Correction (e.g. Delta Change Method, Multiplicative Scaling Method, Quantile Mapping, Climate-Fit “CF” method) and check their performances with statistics.
 ###
-Although these tasks are pretty common, the tools to perform these analyses are not always accessible, or they are often split in parts. 
+Although these tasks are pretty common, the tools to perform these analyses are not always accessible, or they are often split into parts. 
 In this example, a single model executing the above tasks is developed.
 ###
 A CSV file with indicative input data is provided, along with the Python script and the Supplementary Information explaining these tasks.
